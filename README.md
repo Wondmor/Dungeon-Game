@@ -16,3 +16,6 @@
 5.使用RuleTile，使得放置普通地块能够自动变化边缘为设定的地块，加快地图编辑
 
 ![image](https://github.com/Wondmor/Dungeon-Game/assets/34687014/70ed09e7-10ef-4085-abc6-e83881bd7349)
+
+此项目仅展示了类挺进地牢的游戏的功能实现，游戏玩法完成度较低。下载链接：https://1drv.ms/u/s!AhpA6MKrhBrIhMg3zuOlMHnda6qQkQ?e=6VTmTg
+操作指南：C键开箱子，R键装弹，数字键切枪，空格翻滚
